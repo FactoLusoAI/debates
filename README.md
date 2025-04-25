@@ -1,4 +1,4 @@
-# debates
+# FactoLusoAI - Debates
 
 Repositorio de debates e respetivas transcrições
 
@@ -12,8 +12,8 @@ Todo o conteúdo aqui presente foi gerado automaticamente por modelos de IA e po
 
 | Debate                     | Data       | Áudio                                                      | Legendas                                                |
 | -------------------------- | ---------- | ---------------------------------------------------------- | ------------------------------------------------------- |
-| CDU vs AD – TVI            | DD/MM/2025 | [debate.mp3](legislativas2025/ad-cdu-tvi/debate.mp3)       | [debate.srt](legislativas2025/ad-cdu-tvi/debate.srt)    |
-| Chega vs BE – SIC Notícias | DD/MM/2025 | [debate.mp3](legislativas2025/be-chega-sicn/debate.mp3)    | [debate.srt](legislativas2025/be-chega-sicn/debate.srt) |
-| Chega vs Livre – RTP3      | DD/MM/2025 | [debate.mp3](legislativas2025/chega-livre-rtp3/debate.mp3) | _(sem ficheiro .srt)_                                   |
-| Chega vs PAN – RTP3        | DD/MM/2025 | [debate.mp3](legislativas2025/chega-pan-rtp3/debate.mp3)   | _(sem ficheiro .srt)_                                   |
-| PS vs BE – SIC             | DD/MM/2025 | [debate.mp3](legislativas2025/ps-be-sic/debate.mp3)        | _(sem ficheiro .srt)_                                   |
+| CDU vs AD – TVI            | 07/04/2025 | [debate.mp3](legislativas2025/ad-cdu-tvi/debate.mp3)       | [debate.srt](legislativas2025/ad-cdu-tvi/debate.srt)    |
+| Chega vs BE – SIC Notícias | 21/04/2025 | [debate.mp3](legislativas2025/be-chega-sicn/debate.mp3)    | [debate.srt](legislativas2025/be-chega-sicn/debate.srt) |
+| Chega vs Livre – RTP3      | 08/04/2025 | [debate.mp3](legislativas2025/chega-livre-rtp3/debate.mp3) | _(sem ficheiro .srt)_                                   |
+| Chega vs PAN – RTP3        | 07/04/2025 | [debate.mp3](legislativas2025/chega-pan-rtp3/debate.mp3)   | _(sem ficheiro .srt)_                                   |
+| PS vs BE – SIC             | 08/04/2025 | [debate.mp3](legislativas2025/ps-be-sic/debate.mp3)        | _(sem ficheiro .srt)_                                   |
